@@ -1,2 +1,2 @@
 # errors
-frontend for giving helpful information about errors
+frontend for giving helpful information without using the main website
